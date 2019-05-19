@@ -5,6 +5,11 @@ linea correspondiente al cambio en la rama_2
 
 cambio para fast_forward 
 
+
+
+lineas adicionales a un commit
+
+
 segundo cambio para fastforward
 
 
