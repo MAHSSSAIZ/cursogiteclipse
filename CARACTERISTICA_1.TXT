@@ -1,1 +1,3 @@
 AQUI AÑADO MIS CAMBIOS DE LA CARACTERISTICA 1
+
+linea correspondiente al cambio en la rama_2
