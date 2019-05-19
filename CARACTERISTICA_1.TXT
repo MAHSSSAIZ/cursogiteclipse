@@ -6,6 +6,9 @@ linea correspondiente al cambio en la rama_2
 cambio para fast_forward 
 
 
+añado para subir al repositorio remoto
+
+
 
 lineas adicionales a un commit
 
